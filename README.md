@@ -23,7 +23,7 @@ Usage Examples:
 
 Tips:
 - Use the IP address of a remote machine that you have permission to scan.
-- The scan results indicate open ports but do not provide information about the services that may be running on those ports.
+- The scan results indicate open ports and provide the name of the services that may be running on those ports.
 - Make sure you have the necessary privileges to perform a port scan.
 
 Disclaimer:
