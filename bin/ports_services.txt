@@ -1,0 +1,447 @@
+1: TCPMUX
+5: Remote Job Entry
+7: Echo
+9: Discard
+11: systat
+13: daytime
+15: netstat
+17: qotd
+19: chargen
+20: FTP Data
+21: FTP Control
+22: SSH
+23: Telnet
+25: SMTP
+37: Time
+39: RLP
+42: Host Name Server
+43: WhoIs
+49: Login Host Protocol
+53: DNS
+57: MTP
+67: DHCP Server
+68: DHCP Client
+69: TFTP
+70: Gopher
+79: Finger
+80: HTTP
+81: TorPark
+88: Kerberos
+95: SUPDUP
+101: NIC Host Name Server
+102: ISO-TSAP
+104: ACR-NEMA
+110: POP3
+111: RPCbind
+113: ident
+119: NNTP
+123: NTP
+137: NetBIOS Name Service
+138: NetBIOS Datagram Service
+139: NetBIOS Session Service
+143: IMAP
+161: SNMP
+162: SNMP Trap
+163: CMIP/TCP Manager
+179: BGP
+194: IRC
+199: SMUX
+201: AppleTalk Routing Maintenance
+209: Quick Mail Transfer Protocol
+213: IPX
+218: MPP
+220: IMAP3
+259: ESRO
+264: BGMP
+318: PKIX Time Stamp
+323: IMMP
+366: SMTP via TLS
+369: Rpc2portmap
+370: codaauth2
+378: ASK
+381: hp-collector
+382: hp-managed-node
+383: hp-alarm-mgr
+387: Appletalk Update-Based Routing Pro.
+389: LDAP
+406: Interactive Mail Support Protocol
+427: SLP (Service Location Protocol)
+443: HTTPS
+444: Simple Network Paging Protocol
+445: Microsoft-DS
+464: Kerberos Change/Set password
+465: SMTPS
+514: Syslog
+515: Line Printer Daemon
+517: Talk
+520: Routing Information Protocol (RIP)
+524: NCP (NetWare Core Protocol)
+525: Timed, Timeserver
+530: RPC
+543: klogin
+544: kshell
+546: DHCPv6 Client
+547: DHCPv6 Server
+554: RTSP (Real-Time Streaming Protocol)
+563: NNTP over TLS/SSL (usenet)
+585: IMAPS (Internet Message Access Protocol over TLS/SSL)
+587: SMTP Submission (Mail Transfer Agent Submission)
+591: FileMaker
+593: MS RDP (Remote Desktop Protocol)
+601: Reliable Syslog Service
+604: TUNNEL
+631: Internet Printing Protocol (IPP)
+636: LDAPS (LDAP over TLS/SSL)
+639: MSDP (Multicast Source Discovery Protocol)
+646: LDP (Label Distribution Protocol)
+647: DHCP Failover
+648: RRP (Registry Registrar Protocol)
+651: IEEE MMS (IEEE Media Management System)
+665: Sun RPC over TLS/SSL
+666: Doom (Unofficial)
+676: VPPS (VPPS Via)
+694: Linux-HA (High-Availability Linux)
+749: Kerberos Administration
+750: kerberos-iv
+765: Webster
+767: Phone
+873: rsync
+902: VMware Server Console (SSL)
+903: Netconf over SSH
+953: RNDC
+989: FTPS (FTP Secure)
+990: FTPS (FTP Secure) Data
+991: NAS (Netnews Administration System)
+992: Telnet protocol over TLS/SSL
+993: IMAPS over TLS/SSL (Internet Message Access Protocol)
+995: POP3S (POP3 Secure)
+1000: cadlock
+1008: UFS/QFS
+1010: Surf
+1023: Reserved
+1025: NFS or IIS
+1026: Calendar Access Protocol
+1027: IIS
+1029: Microsoft DCOM
+1058: nim
+1080: SOCKS proxy
+1099: Java RMI
+1110: Cluster status info
+1119: Battle.net Chat/Game Protocol
+1155: Network File Access
+1194: OpenVPN
+1200: SCOL
+1234: Infoseek
+1241: Nessus
+1300: H323 Host Call Secure
+1311: Dell OpenManage
+1337: Back Orifice
+1352: Lotus Notes
+1377: Cichlid License Manager
+1378: Elan License Manager
+1389: Directory Location Service
+1414: IBM MQ
+1433: Microsoft SQL Server
+1434: Microsoft SQL Monitor
+1494: Citrix ICA
+1512: WINS
+1521: Oracle SQL
+1524: ingreslock
+1604: Citrix
+1645: RADIUS
+1646: RADIUS accounting
+1701: L2TP
+1723: PPTP
+1755: Microsoft Media Services (MMS)
+1761: cft-0
+1762: cft-1
+1763: cft-2
+1764: cft-3
+1765: cft-4
+1766: cft-5
+1767: cft-6
+1768: cft-7
+1769: cft-8
+1770: cft-9
+1812: RADIUS authentication
+1813: RADIUS accounting
+1863: MSN Messenger
+1935: Adobe Flash Media Server
+1947: Cisco
+1970: Netop Remote Control
+1971: Netop Remote Control
+1985: Cisco HSRP
+2000: Cisco SCCP
+2002: GlobeCast
+2049: NFS
+2082: cPanel
+2083: cPanel SSL
+2100: Oracle XDB
+2181: Zookeeper
+2195: Apple Push Notification Service (APNS)
+2196: Apple Push Notification Service (APNS)
+2301: Compaq Insight Manager
+2302: Compaq License Manager
+2323: Telnet
+2366: MySQL
+2375: Docker API
+2376: Docker API (TLS)
+2380: Docker Swarm
+2394: MS RDP (Remote Desktop Protocol)
+2483: Oracle
+2484: Oracle SSL
+2578: RAdmin
+2598: Citrix XenApp (ICA)
+2701: SMS Remote Control (Unofficial)
+2710: XBT
+2717: GameSpy
+2792: SPX (Netware)
+2809: corbaloc
+2811: GBC
+2944: Megaco H248
+3000: Ruby on Rails
+3030: eMule
+3074: Xbox Live
+3128: Squid Proxy
+3260: iSCSI
+3306: MySQL
+3389: MS RDP (Remote Desktop Protocol)
+3390: MS RDP (Remote Desktop Protocol)
+3478: STUN
+3479: STUN
+3493: Network UPS Tools (NUT)
+3632: Distributed Compiler
+3689: iTunes
+3690: Subversion
+3724: World of Warcraft
+3784: Ventrilo
+3785: Ventrilo
+3847: MS RDP (Remote Desktop Protocol)
+3872: Oracle Management Remote Agent
+3900: Unidata UDT OS
+3978: OpenTTD
+4000: Diablo II
+4001: Diablo II
+4002: Diablo II
+4003: Diablo II
+4069: Minger
+4089: Cendio ThinLinc
+4093: PvxPlus
+4096: Ascom Timeplex
+4100: WatchGuard Authentication
+4111: Xgrid
+4113: AIPN LS
+4125: Microsoft Remote Web Workplace (RWW)
+4224: Cisco VPN Client
+4333: mSQL
+4443: SSL/TLS HTTPS
+4500: NAT Traversal
+4662: eMule
+4664: Google Desktop
+4672: eMule
+4899: RAdmin
+5000: UPnP
+5001: Slingbox
+5003: FileMaker
+5009: Airport Admin Utility
+5050: Yahoo! Messenger
+5051: ICA
+5060: SIP
+5061: SIP-TLS
+5093: SPX (Netware)
+5104: IBM Tivoli Framework
+5140: NetBSD Rwho
+5150: AOL
+5200: Targus Data Port
+5222: XMPP/Jabber
+5269: XMPP/Jabber (server-to-server)
+5298: Crystal Reports Server
+5353: mDNS (Bonjour)
+5400: VNC Server
+5432: PostgreSQL
+5443: SSL/TLS HTTPS (alternate)
+5500: VNC Console
+5554: SGI ESP HTTP
+5631: PCAnywhere
+5632: PCAnywhere
+5800: VNC HTTP
+5900: VNC
+5985: WinRM (Windows Remote Management)
+5986: WinRM (Windows Remote Management over TLS)
+6000: X11 (X Window System)
+6001: X11 (X Window System)
+6002: X11 (X Window System)
+6003: X11 (X Window System)
+6004: X11 (X Window System)
+6005: X11 (X Window System)
+6112: Warcraft III
+6113: Warcraft III
+6129: Dameware Mini Remote Control
+6257: WinMX
+6346: Gnutella
+6347: Gnutella
+6502: Netop Remote Control
+6566: SANE
+6567: SANE
+6588: AnalogX
+6589: AnalogX
+6660-6669: Internet Relay Chat (IRC)
+6881-6889: BitTorrent
+6901: Jetstream
+6969: BitTorrent Tracker
+7000: Default Vuze (formerly Azureus) port
+7001: Default Vuze (formerly Azureus) port
+7002: Default Vuze (formerly Azureus) port
+7003: Default Vuze (formerly Azureus) port
+7004: Default Vuze (formerly Azureus) port
+7005: Default Vuze (formerly Azureus) port
+7006: Default Vuze (formerly Azureus) port
+7007: Default Vuze (formerly Azureus) port
+7008: Default Vuze (formerly Azureus) port
+7009: Default Vuze (formerly Azureus) port
+7010: Default Vuze (formerly Azureus) port
+7100: Default Vuze (formerly Azureus) port
+8000: HTTP Alternate
+8001: HTTP Alternate
+8002: HTTP Alternate
+8003: HTTP Alternate
+8004: HTTP Alternate
+8005: HTTP Alternate
+8006: HTTP Alternate
+8007: HTTP Alternate
+8008: HTTP Alternate
+8009: Apache JServ Protocol
+8010: XMPP/Jabber File transfers
+8080: HTTP
+8081: HTTP Proxy
+8082: HTTP Proxy
+8083: HTTP Proxy
+8084: HTTP Proxy
+8085: HTTP Proxy
+8086: HTTP Proxy
+8087: HTTP Proxy
+8088: HTTP Proxy
+8089: HTTP Proxy
+8090: HTTP Proxy
+8091: HTTP Proxy
+8092: HTTP Proxy
+8093: HTTP Proxy
+8094: HTTP Proxy
+8095: HTTP Proxy
+8096: HTTP Proxy
+8097: HTTP Proxy
+8098: HTTP Proxy
+8099: HTTP Proxy
+8180: Oracle Database
+8200: GoToMyPC
+8201: GoToMyPC
+8254: rstatd
+8291: WinBox
+8333: Bitcoin
+8342: Lotus Notes Replication
+8372: Lotus Notes
+8443: SSL/TLS HTTPS (alternate)
+8500: ColdFusion
+8600: iSCSI
+8649: Ganglia
+8701: MySQL
+8767: TeamSpeak
+8880: cPanel
+8881: cPanel SSL
+8882: cPanel SSL
+8883: Secure MQTT
+9000: Buffalo LinkSystem
+9001: Play!
+9090: Openfire
+9100: Printing (JetDirect)
+9101: HP JetDirect
+9102: JetDirect
+9103: JetDirect
+9104: JetDirect
+9110: SSMP Message Protocol
+9111: DragonIDS
+9191: Microsoft SQL Reporting Services
+9200: Elasticsearch
+9300: Elasticsearch
+9418: Git
+9443: SSL/TLS HTTPS (alternate)
+9535: mDNS (Bonjour)
+9800: WebDAV
+9875: SAP Message Server
+9898: DCOM
+9988: Vulture Network Filesystem
+9999: HTTP
+10000: Webmin
+10001: Cisco Call Manager
+10050: Zabbix Agent
+10051: Zabbix Server
+10243: SSL/TLS HTTPS (alternate)
+10308: Lockstep port
+10567: iChat
+10809: Naruto Online
+10850: Webmin
+11000: IRCS
+11211: Memcached
+11235: UDP for networked AV
+11371: OpenPGP
+11751: Intrepid SSL
+12000: Used by SQL Server named instances
+12174: Kazaa
+12345: NetBus
+12346: NetBus
+12397: Nimda
+12443: SSL/TLS HTTPS (alternate)
+12542: radmin-port
+12701: PowerFolder
+13223: PowWow
+13224: PowWow
+13720: Symantec NetBackup
+13721: Symantec NetBackup
+13724: Symantec Network Utility
+13782: NetBackup
+13783: NetBackup
+13818: BroadCam
+13867: BACnet
+13894: UMTS SNMP
+13929: D1332 Relay Port
+14147: VCS System
+14250: Brawlhalla
+14439: CCAPI
+14550: Bitcoin
+14567: DCERPC
+15000: Cisco SCCP (Skinny)
+15002: Cisco SCCP (Skinny)
+15345: XPilot Contact Port
+15346: XPilot Contact Port
+15400: VFX Client Port
+15672: RabbitMQ Management Console
+15742: Mumble
+16000: Shoutcast
+16080: Mac OS X Server Web
+16113: Net Bill Transaction Server
+16200: Oracle Universal Content Management
+16225: Oracle Universal Content Management
+16250: Oracle Universal Content Management
+16300: Oracle Universal Content Management
+16330: Oracle Universal Content Management
+16384: UDP for networked AV
+16571: SAP
+16666: Perforce
+16992: INTEL-RCI-MP
+16993: INTEL-RCI-MP
+16994: INTEL-RCI-MP
+16995: INTEL-RCI-MP
+16996: INTEL-RCI-MP
+16997: INTEL-RCI-MP
+16998: INTEL-RCI-MP
+16999: INTEL-RCI-MP
+17007: UltraEdit
+17200: SubSeven
+17300: KuWFi CMS
+17500: Dropbox
+17990: World Community Grid
+18040: Enigma Protector License Management
+18101: Opsec CVP
+18200: Plex
+18201: Plex
+18300: Plex
